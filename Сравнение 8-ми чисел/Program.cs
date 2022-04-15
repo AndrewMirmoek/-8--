@@ -39,3 +39,4 @@ Console.WriteLine("нужно сравнивать больше чисел");
 Console.ReadLine();
 // Console.WriteLine("проект выполнен, больше сравнений не надо");, это тестовые изменения
 
+8numbers_part2
