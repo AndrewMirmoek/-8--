@@ -34,5 +34,6 @@ double maxmin = Math.Max(Math.Max(Math.Max(min1, min2), Math.Max(min3, min4)), M
 Console.WriteLine($"Два самыых маленьких числа {maxmin} и {minabsolute}");
 
 Console.WriteLine ("Все работает!");
-Console.WriteLine("Или все работает!");
+Console.WriteLine("Все не работает?!");
+Console.WriteLine("нужно сравнивать больше чисел");
 
